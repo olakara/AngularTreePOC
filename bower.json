@@ -1,0 +1,22 @@
+{
+  "name": "UnitTreePOC",
+  "version": "0.0.1",
+  "authors": [
+    "Abdel Raoof <olakara@gmail.com>"
+  ],
+  "description": "A simple Tree POC",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.8",
+    "angular-tree-control": "~0.2.7",
+    "bootstrap": "~3.3.1"
+  }
+}
