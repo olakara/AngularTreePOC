@@ -1,5 +1,22 @@
 treecontrol li {
+
   position: relative;
-  padding: 0 20px 0 20px;
+  padding-right: 20px;
+  padding-left: 0px;
   line-height: 20px;
+}
+
+treecontrol.tree-classic li.tree-expanded i {
+  padding-left: 35px;
+
+
+}
+
+treecontrol.tree-classic li.tree-collapsed i {
+  padding-left: 35px;
+
+}
+
+treecontrol.tree-classic li.tree-leaf i {
+  padding-left: 35px;
 }
